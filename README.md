@@ -4,7 +4,7 @@
 ### Classe Compte
 ![alt text](images/compte.png)
 ### Classe BanqueService
-![alt text](banqueService/.png)
+![alt text](banqueService.png)
 ### Classe Server
 ![alt text](images/serverJWS.png)
 

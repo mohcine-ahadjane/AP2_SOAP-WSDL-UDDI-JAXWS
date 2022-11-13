@@ -13,18 +13,15 @@
 ![alt text](images/consulterHTTP.png)
 
 
-## 3. Tester les opérations du web service avec un outil comme SoapUI
+## 3. Tester les opérations du web service avec SoapUI
 
-### importer les API dans SoupUI
-
-![alt text](images/img_5.png)
 
 &#8594; TEST
-![alt text](images/testSOP1.png)
-![alt text](images/testSOP2.png)
-![alt text](images/testSOP3.png)
+![alt text](images/testSOAP1.png)
+![alt text](images/testSOAP2.png)
+![alt text](images/testSOAP3.png)
 &#8594; @XmlTransient
-![alt text](images/testSOP4.png)
+![alt text](images/testSOAP4.png)
 
 ** **
 
@@ -32,3 +29,6 @@
 &#8594; Client SOAP Java
 
 ![alt text](images/testClient.png)
+
+
+

@@ -2,7 +2,7 @@
 
 ## 1. Creation du Web service
 ### Classe Compte
-![alt text](images/compte.png)
+![](images/compte.png)
 ### Classe BanqueService
 ![alt text](images/banqueService.png)
 ### Classe Server

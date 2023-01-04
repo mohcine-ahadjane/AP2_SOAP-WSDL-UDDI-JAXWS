@@ -3,7 +3,7 @@
 <h3>Classe Compte</h3>
 <img src="/images/compte.png">
 <h3>Classe BanqueService</h3>
-<img src="/images/banqueService.png">
+<img src="/images/BanqueService.png">
 <h3>Classe Server</h3>
 <img src="/images/serverJWS.png">
 <h2>2. Consulter et analyser le WSDL avec un Browser HTTP</h2>
